@@ -1,0 +1,17 @@
+# Quality and shipping
+
+- [clean-code](./clean-code/SKILL.md)
+- [lint-and-validate](./lint-and-validate/SKILL.md)
+- [tdd-workflow](./tdd-workflow/SKILL.md)
+- [testing-patterns](./testing-patterns/SKILL.md)
+- [webapp-testing](./webapp-testing/SKILL.md)
+- [agent-browser](./agent-browser/SKILL.md)
+- [systematic-debugging](./systematic-debugging/SKILL.md)
+- [code-review-checklist](./code-review-checklist/SKILL.md)
+- [performance-profiling](./performance-profiling/SKILL.md)
+- [vulnerability-scanner](./vulnerability-scanner/SKILL.md)
+- [red-team-tactics](./red-team-tactics/SKILL.md)
+- [deployment-procedures](./deployment-procedures/SKILL.md)
+- [documentation-templates](./documentation-templates/SKILL.md)
+- [accidental-data-loss-prevention](./accidental-data-loss-prevention/SKILL.md)
+- [skill-repair](./skill-repair/SKILL.md)

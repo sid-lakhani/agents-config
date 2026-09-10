@@ -1,0 +1,18 @@
+# Cloud and data platforms
+
+- [building-data-apps](./building-data-apps/SKILL.md)
+- [data-autocleaning](./data-autocleaning/SKILL.md)
+- [dataform-bigquery](./dataform-bigquery/SKILL.md)
+- [dbt-bigquery](./dbt-bigquery/SKILL.md)
+- [developing-with-bigquery](./developing-with-bigquery/SKILL.md)
+- [bigquery-data-transfer-service](./bigquery-data-transfer-service/SKILL.md)
+- [discovering-gcp-data-assets](./discovering-gcp-data-assets/SKILL.md)
+- [gcp-data-pipelines](./gcp-data-pipelines/SKILL.md)
+- [gcp-dataflow](./gcp-dataflow/SKILL.md)
+- [gcp-spark](./gcp-spark/SKILL.md)
+- [gcp-pipeline-orchestration](./gcp-pipeline-orchestration/SKILL.md)
+- [gcp-pipeline-resource-provisioning](./gcp-pipeline-resource-provisioning/SKILL.md)
+- [gcp-composer-troubleshooting](./gcp-composer-troubleshooting/SKILL.md)
+- [gcloud-auth-verification](./gcloud-auth-verification/SKILL.md)
+- [notebook-guidance](./notebook-guidance/SKILL.md)
+- [ml-best-practices](./ml-best-practices/SKILL.md)

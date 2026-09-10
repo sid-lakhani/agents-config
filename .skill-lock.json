@@ -1,0 +1,212 @@
+{
+  "version": 3,
+  "skills": {
+    "animate": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/animate/SKILL.md",
+      "skillFolderHash": "c56eac3ec48a97c254dc3a2a42915f22f96a5401",
+      "installedAt": "2026-08-11T10:03:18.518Z",
+      "updatedAt": "2026-08-11T10:03:18.518Z"
+    },
+    "animation-vocabulary": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/animation-vocabulary/SKILL.md",
+      "skillFolderHash": "e6dc24ca1ff1e70c9677df9a1d2d1c80415cbb3c",
+      "installedAt": "2026-08-11T10:03:18.523Z",
+      "updatedAt": "2026-08-11T10:03:18.523Z"
+    },
+    "ask-sonner": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/ask-sonner/SKILL.md",
+      "skillFolderHash": "591cfb58ec1eb38a7ca04f3b6453a75a4fcf9fc8",
+      "installedAt": "2026-08-11T10:03:18.526Z",
+      "updatedAt": "2026-08-11T10:03:18.526Z"
+    },
+    "apple-design": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/apple-design/SKILL.md",
+      "skillFolderHash": "e9f5b472dfb28d8cf29f64001b6c01ef94b8168b",
+      "installedAt": "2026-08-11T10:03:18.530Z",
+      "updatedAt": "2026-08-11T10:03:18.530Z"
+    },
+    "emil-design-eng": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "skillFolderHash": "175725745e70946d891b93a1694d7c9ebb71b69d",
+      "installedAt": "2026-08-11T10:03:18.534Z",
+      "updatedAt": "2026-08-11T10:03:18.534Z"
+    },
+    "find-animation-opportunities": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/find-animation-opportunities/SKILL.md",
+      "skillFolderHash": "502f891c05c9cade7e7bd815e3f228fdd20b61b6",
+      "installedAt": "2026-08-11T10:03:18.538Z",
+      "updatedAt": "2026-08-11T10:03:18.538Z"
+    },
+    "improve-animations": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/improve-animations/SKILL.md",
+      "skillFolderHash": "2ff93ddb9833df45f5e83080de838bb668530820",
+      "installedAt": "2026-08-11T10:03:18.543Z",
+      "updatedAt": "2026-08-11T10:03:18.543Z"
+    },
+    "pick-ui-library": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/pick-ui-library/SKILL.md",
+      "skillFolderHash": "cfc9a519a1b554eef39bba7bd74bd6845524ccd1",
+      "installedAt": "2026-08-11T10:03:18.547Z",
+      "updatedAt": "2026-08-11T10:03:18.547Z"
+    },
+    "prototype": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/prototype/SKILL.md",
+      "skillFolderHash": "564cf82ef5b17f5e018b439dc7fd1e392dcf6188",
+      "installedAt": "2026-08-11T10:03:18.551Z",
+      "updatedAt": "2026-08-11T10:03:18.551Z"
+    },
+    "review-animations": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/review-animations/SKILL.md",
+      "skillFolderHash": "82571acae75a97764fa7899f10bd21d93a4f1414",
+      "installedAt": "2026-08-11T10:03:18.554Z",
+      "updatedAt": "2026-08-11T10:03:18.554Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-08-11T10:03:24.129Z",
+      "updatedAt": "2026-08-11T10:03:24.129Z"
+    },
+    "transitions-dev": {
+      "source": "Jakubantalik/transitions.dev",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Jakubantalik/transitions.dev.git",
+      "skillPath": "skills/transitions-dev/SKILL.md",
+      "skillFolderHash": "b5843d085c881a788329d6fdf41da9fed68b8e5b",
+      "installedAt": "2026-08-11T10:05:19.711Z",
+      "updatedAt": "2026-08-11T10:05:19.711Z"
+    },
+    "transitions-polish": {
+      "source": "Jakubantalik/transitions.dev",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Jakubantalik/transitions.dev.git",
+      "skillPath": "skills/transitions-polish/SKILL.md",
+      "skillFolderHash": "afd053fa85269d70d7e76f56321d7eb5bebde212",
+      "installedAt": "2026-08-11T10:05:19.717Z",
+      "updatedAt": "2026-08-11T10:05:19.717Z"
+    },
+    "copywriting": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/copywriting/SKILL.md",
+      "skillFolderHash": "13d216690bbbcb88e2fee9f3e2d8f5a5bbc4b338",
+      "installedAt": "2026-08-11T10:51:26.478Z",
+      "updatedAt": "2026-08-11T10:51:26.478Z"
+    },
+    "shadcn": {
+      "source": "shadcn-ui/ui",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/shadcn-ui/ui.git",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "skillFolderHash": "b5791523e07794a4deb201e78eab3f3adbd022c0",
+      "installedAt": "2026-09-10T08:52:06.515Z",
+      "updatedAt": "2026-09-10T08:52:06.515Z"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillFolderHash": "f0415e89eeadda8933a49a3f432acae52fa542aa",
+      "installedAt": "2026-09-10T08:52:16.256Z",
+      "updatedAt": "2026-09-10T08:52:16.256Z"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "skillFolderHash": "bf90d0a4b83ea054653350f9c67f6de235d3a368",
+      "installedAt": "2026-09-10T08:52:22.975Z",
+      "updatedAt": "2026-09-10T08:52:22.975Z"
+    },
+    "prisma-database-setup": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/prisma/skills.git",
+      "skillPath": "prisma-database-setup/SKILL.md",
+      "skillFolderHash": "363365e393a5316b9991dbbdf1e93c2dd1da8cdc",
+      "installedAt": "2026-09-10T08:52:25.947Z",
+      "updatedAt": "2026-09-10T08:52:25.947Z"
+    },
+    "prisma-client-api": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/prisma/skills.git",
+      "skillPath": "prisma-client-api/SKILL.md",
+      "skillFolderHash": "f6fc13451003b16376a906ca2b4a12ceaa4ecfe4",
+      "installedAt": "2026-09-10T08:52:28.214Z",
+      "updatedAt": "2026-09-10T08:52:28.214Z"
+    },
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
+      "skillPath": "skills/agent-browser/SKILL.md",
+      "skillFolderHash": "82def67855a0d2aad7794207951820fa5422fdb0",
+      "installedAt": "2026-09-10T08:52:48.738Z",
+      "updatedAt": "2026-09-10T08:52:48.738Z"
+    },
+    "prisma-cli": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/prisma/skills.git",
+      "skillPath": "prisma-cli/SKILL.md",
+      "skillFolderHash": "fcfa072aafa008590556d3f140bbf2e12942fadc",
+      "installedAt": "2026-09-10T08:53:39.583Z",
+      "updatedAt": "2026-09-10T08:53:39.583Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
+  ]
+}

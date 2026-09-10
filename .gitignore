@@ -1,0 +1,10 @@
+# Logs and temp files
+logs/
+*.log
+.DS_Store
+
+# Do not ignore skills, workflows, or rules!
+!skills/
+!workflows/
+!AGENTS.md
+!.skill-lock.json

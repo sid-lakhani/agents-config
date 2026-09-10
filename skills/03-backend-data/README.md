@@ -1,0 +1,15 @@
+# Backend and data
+
+- [api-patterns](./api-patterns/SKILL.md)
+- [nodejs-best-practices](./nodejs-best-practices/SKILL.md)
+- [database-design](./database-design/SKILL.md)
+- [prisma-database-setup](./prisma-database-setup/SKILL.md)
+- [prisma-client-api](./prisma-client-api/SKILL.md)
+- [prisma-cli](./prisma-cli/SKILL.md)
+- [python-patterns](./python-patterns/SKILL.md)
+- [rust-pro](./rust-pro/SKILL.md)
+- [mcp-builder](./mcp-builder/SKILL.md)
+- [server-management](./server-management/SKILL.md)
+- [bash-linux](./bash-linux/SKILL.md)
+- [powershell-windows](./powershell-windows/SKILL.md)
+- [managing-python-dependencies](./managing-python-dependencies/SKILL.md)
