@@ -3,6 +3,7 @@
 - [frontend-design](./frontend-design/SKILL.md)
 - [React best practices](./nextjs-react-expert/SKILL.md)
 - [shadcn](./shadcn/SKILL.md)
+- [threejs-r3f](./threejs-r3f/SKILL.md)
 - [ui-ux-pro-max](./ui-ux-pro-max/SKILL.md)
 - [Vercel composition patterns](./vercel-composition-patterns/SKILL.md)
 - [tailwind-patterns](./tailwind-patterns/SKILL.md)

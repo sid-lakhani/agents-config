@@ -1,24 +1,6 @@
 {
   "version": 3,
   "skills": {
-    "animate": {
-      "source": "emilkowalski/skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/emilkowalski/skill.git",
-      "skillPath": "skills/animate/SKILL.md",
-      "skillFolderHash": "c56eac3ec48a97c254dc3a2a42915f22f96a5401",
-      "installedAt": "2026-08-11T10:03:18.518Z",
-      "updatedAt": "2026-08-11T10:03:18.518Z"
-    },
-    "animation-vocabulary": {
-      "source": "emilkowalski/skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/emilkowalski/skill.git",
-      "skillPath": "skills/animation-vocabulary/SKILL.md",
-      "skillFolderHash": "e6dc24ca1ff1e70c9677df9a1d2d1c80415cbb3c",
-      "installedAt": "2026-08-11T10:03:18.523Z",
-      "updatedAt": "2026-08-11T10:03:18.523Z"
-    },
     "ask-sonner": {
       "source": "emilkowalski/skill",
       "sourceType": "github",
@@ -37,33 +19,6 @@
       "installedAt": "2026-08-11T10:03:18.530Z",
       "updatedAt": "2026-08-11T10:03:18.530Z"
     },
-    "emil-design-eng": {
-      "source": "emilkowalski/skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/emilkowalski/skill.git",
-      "skillPath": "skills/emil-design-eng/SKILL.md",
-      "skillFolderHash": "175725745e70946d891b93a1694d7c9ebb71b69d",
-      "installedAt": "2026-08-11T10:03:18.534Z",
-      "updatedAt": "2026-08-11T10:03:18.534Z"
-    },
-    "find-animation-opportunities": {
-      "source": "emilkowalski/skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/emilkowalski/skill.git",
-      "skillPath": "skills/find-animation-opportunities/SKILL.md",
-      "skillFolderHash": "502f891c05c9cade7e7bd815e3f228fdd20b61b6",
-      "installedAt": "2026-08-11T10:03:18.538Z",
-      "updatedAt": "2026-08-11T10:03:18.538Z"
-    },
-    "improve-animations": {
-      "source": "emilkowalski/skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/emilkowalski/skill.git",
-      "skillPath": "skills/improve-animations/SKILL.md",
-      "skillFolderHash": "2ff93ddb9833df45f5e83080de838bb668530820",
-      "installedAt": "2026-08-11T10:03:18.543Z",
-      "updatedAt": "2026-08-11T10:03:18.543Z"
-    },
     "pick-ui-library": {
       "source": "emilkowalski/skill",
       "sourceType": "github",
@@ -81,15 +36,6 @@
       "skillFolderHash": "564cf82ef5b17f5e018b439dc7fd1e392dcf6188",
       "installedAt": "2026-08-11T10:03:18.551Z",
       "updatedAt": "2026-08-11T10:03:18.551Z"
-    },
-    "review-animations": {
-      "source": "emilkowalski/skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/emilkowalski/skill.git",
-      "skillPath": "skills/review-animations/SKILL.md",
-      "skillFolderHash": "82571acae75a97764fa7899f10bd21d93a4f1414",
-      "installedAt": "2026-08-11T10:03:18.554Z",
-      "updatedAt": "2026-08-11T10:03:18.554Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -189,6 +135,41 @@
       "skillFolderHash": "fcfa072aafa008590556d3f140bbf2e12942fadc",
       "installedAt": "2026-09-10T08:53:39.583Z",
       "updatedAt": "2026-09-10T08:53:39.583Z"
+    },
+    "threejs-r3f": {
+      "source": "workspace/creative-frontend",
+      "sourceType": "local",
+      "skillPath": "skills/01-frontend-ui/threejs-r3f/SKILL.md",
+      "installedAt": "2026-10-06T10:40:00.000Z",
+      "updatedAt": "2026-10-06T10:40:00.000Z"
+    },
+    "lenis-smooth-scroll": {
+      "source": "workspace/creative-frontend",
+      "sourceType": "local",
+      "skillPath": "skills/02-animation-motion/lenis-smooth-scroll/SKILL.md",
+      "installedAt": "2026-10-06T10:40:00.000Z",
+      "updatedAt": "2026-10-06T10:40:00.000Z"
+    },
+    "gsap-scrolltrigger": {
+      "source": "workspace/creative-frontend",
+      "sourceType": "local",
+      "skillPath": "skills/02-animation-motion/gsap-scrolltrigger/SKILL.md",
+      "installedAt": "2026-10-06T10:40:00.000Z",
+      "updatedAt": "2026-10-06T10:40:00.000Z"
+    },
+    "motion-scroll-interactions": {
+      "source": "workspace/creative-frontend",
+      "sourceType": "local",
+      "skillPath": "skills/02-animation-motion/motion-scroll-interactions/SKILL.md",
+      "installedAt": "2026-10-06T10:40:00.000Z",
+      "updatedAt": "2026-10-06T10:40:00.000Z"
+    },
+    "css-scroll-driven": {
+      "source": "workspace/creative-frontend",
+      "sourceType": "local",
+      "skillPath": "skills/02-animation-motion/css-scroll-driven/SKILL.md",
+      "installedAt": "2026-10-06T10:40:00.000Z",
+      "updatedAt": "2026-10-06T10:40:00.000Z"
     }
   },
   "dismissed": {

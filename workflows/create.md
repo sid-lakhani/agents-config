@@ -8,7 +8,7 @@ description: Create new application command. Triggers App Builder skill and star
 > **Agent Instruction:** Before executing this workflow, you MUST read the following skills to ensure you use the best patterns:
 - `app-builder`
 - `templates`
-- `clean-code`
+- `lint-and-validate`
 
 
 

@@ -1,12 +1,12 @@
 ---
 name: brainstorming
-description: Socratic questioning protocol + user communication. MANDATORY for complex requests, new features, or unclear requirements. Includes progress reporting and error handling.
+description: Socratic questioning protocol and creative exploration. Use when explicitly exploring product concepts, ideating architecture, or when asked to brainstorm before implementation.
 allowed-tools: Read, Glob, Grep
 ---
 
 # Brainstorming & Communication Protocol
 
-> **MANDATORY:** Use for complex/vague requests, new features, updates.
+> **GUIDE:** Use for open-ended ideation and feature exploration when requested.
 
 ---
 

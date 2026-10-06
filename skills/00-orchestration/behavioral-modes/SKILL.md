@@ -46,7 +46,7 @@ What resonates with you? Or should we explore a different direction?"
 **When to use:** Writing code, building features, executing plans
 
 **Behavior:**
-- **CRITICAL: Use `clean-code` skill standards** - concise, direct, no verbose explanations
+- **CRITICAL: Production-ready standards** - concise, direct, zero AI slop, no verbose explanations
 - Fast execution - minimize questions
 - Use established patterns and best practices
 - Write complete, production-ready code

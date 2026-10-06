@@ -14,3 +14,13 @@ These rules apply to all AI agents operating within this workspace.
 ## 3. Workflow & Skill Synergy
 - **Obedience:** When a workflow slash command is used, follow its exact steps.
 - **Skill Usage:** Proactively trigger and read the specific `SKILL.md` files mentioned in the workflows before starting the task to ensure you're using the best possible patterns.
+
+## 4. Zero AI Slop & Creative Frontend Standards
+- **No Over-Abstraction:** Never create unnecessary wrapper files, empty interfaces, or single-use helper functions. Write direct, idiomatic code.
+- **No Lecture Mode:** Don't explain basic software design theory (DRY, SOLID, clean-code) in responses or code comments. Code must speak for itself.
+- **Modern Creative Stack:** When building animations or 3D, always use modern, performant standards:
+  - **Smooth Scroll:** Use Lenis (`lenis`) with proper RAF connection and cleanup.
+  - **Scroll Choreography:** Use GSAP 3 + ScrollTrigger via `@gsap/react` (`useGSAP`) synchronized with Lenis ticker.
+  - **Spring & Interaction:** Use Motion for React (`motion`) with `useSpring` and GPU-composited transforms (`x`, `y`, `scale`, `opacity`).
+  - **3D / WebGL:** Use React Three Fiber (`@react-three/fiber`), Drei, and Three.js with clamped DPR (`dpr={[1, 2]}`) and strict asset disposal on unmount.
+

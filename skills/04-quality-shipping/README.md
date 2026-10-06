@@ -1,6 +1,5 @@
 # Quality and shipping
 
-- [clean-code](./clean-code/SKILL.md)
 - [lint-and-validate](./lint-and-validate/SKILL.md)
 - [tdd-workflow](./tdd-workflow/SKILL.md)
 - [testing-patterns](./testing-patterns/SKILL.md)

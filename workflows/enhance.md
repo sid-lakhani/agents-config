@@ -6,7 +6,7 @@ description: Add or update features in existing application. Used for iterative 
 
 ## 🛠️ Required Skills
 > **Agent Instruction:** Before executing this workflow, you MUST read the following skills to ensure you use the best patterns:
-- `clean-code`
+- `lint-and-validate`
 - `frontend-design`
 - `ui-ux-pro-max`
 
