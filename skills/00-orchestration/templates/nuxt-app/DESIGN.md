@@ -1,0 +1,1 @@
+/home/sidlakhani/.agents/DESIGN.md

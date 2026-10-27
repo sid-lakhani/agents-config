@@ -23,6 +23,7 @@ description: Next.js full-stack template principles. App Router, Prisma, Tailwin
 
 ```
 project-name/
+├── DESIGN.md               # Anti-slop design system & tokens (mandatory)
 ├── prisma/
 │   └── schema.prisma       # Database schema
 ├── src/
@@ -32,7 +33,7 @@ project-name/
 │   │   ├── api/            # Route Handlers (only for Webhooks/External integration)
 │   │   ├── layout.tsx      # Root Layout (Metadata, Providers)
 │   │   ├── page.tsx        # Landing Page
-│   │   └── globals.css     # Tailwind v4 config (@theme) lives here
+│   │   └── globals.css     # Tailwind v4 config (@theme & semantic tokens) lives here
 │   ├── components/
 │   │   ├── ui/             # Reusable UI (Button, Input)
 │   │   └── forms/          # Client forms using useActionState
@@ -120,3 +121,4 @@ project-name/
 - **Type Safety**: Share Zod schemas between Server Actions (input validation) and Client Forms.
 - **Security**: Always validate input data with Zod before passing it to Prisma.
 - **Styling**: Use native CSS variables in Tailwind v4 for easier dynamic theming.
+- **Anti-Slop Design**: Strictly follow `DESIGN.md`. All layouts must be mobile-first responsive (`max-w-7xl`, `px-4 sm:px-6 lg:px-8`, `overflow-x-clip`), use semantic tokens (`bg-background`, `text-foreground`, `border-border`), and forbid raw hex codes or rainbow card gradients.

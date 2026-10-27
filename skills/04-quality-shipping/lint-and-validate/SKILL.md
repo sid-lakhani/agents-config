@@ -14,6 +14,10 @@ allowed-tools: Read, Glob, Grep, Bash
 1. **Lint/Fix:** `npm run lint` or `npx eslint "path" --fix`
 2. **Types:** `npx tsc --noEmit`
 3. **Security:** `npm audit --audit-level=high`
+4. **Anti-Slop Design Audit:**
+   - Scan for forbidden raw hex classes: `grep -rnE "(bg|text|border)-\[#" src/` (must use semantic tokens like `bg-primary`, `border-border`)
+   - Scan for banned gradient text: `grep -rn "bg-clip-text text-transparent" src/`
+   - Verify zero horizontal overflow: root layout has `overflow-x-clip`
 
 #### Python
 1. **Linter (Ruff):** `ruff check "path" --fix` (Fast & Modern)
