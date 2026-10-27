@@ -1,3 +1,8 @@
+---
+trigger: always_on
+description: "Anti-slop design system: banned AI aesthetics, strict 2-tier typography, semantic color tokens, and responsive layout standards for all frontend code."
+---
+
 # Antigravity Global Anti-Slop Design System (DESIGN.md)
 
 > **Core Philosophy:** Clean, editorial, responsive-by-default design. Zero hallucinated AI aesthetic slop. Every interface looks hand-crafted by a senior human product designer.
