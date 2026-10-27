@@ -24,3 +24,12 @@ These rules apply to all AI agents operating within this workspace.
   - **Spring & Interaction:** Use Motion for React (`motion`) with `useSpring` and GPU-composited transforms (`x`, `y`, `scale`, `opacity`).
   - **3D / WebGL:** Use React Three Fiber (`@react-three/fiber`), Drei, and Three.js with clamped DPR (`dpr={[1, 2]}`) and strict asset disposal on unmount.
 
+## 5. Anti-Slop Design System Enforcement (DESIGN.md)
+Every agent generating or modifying frontend code MUST obey `DESIGN.md`:
+- **Zero Gradient Slop:** No rainbow cards, purple blob glows, or gradient-masked text. Use solid backgrounds with intentional borders.
+- **Semantic Tokens Only:** Never hardcode raw hex codes in Tailwind (`bg-[#121317]`). Always use semantic variables (`bg-primary`, `text-foreground`, `border-border`, `bg-secondary`).
+- **Strict 2-Tier Typography:** Maximum 2 fonts total (1 neutral sans for UI/body + 1 optional editorial serif/display for H1/H2). Source distinct, downloadable fonts (Google Fonts/Fontshare).
+- **Default Responsive Engine:** All pages must use `max-w-7xl` with `px-4 sm:px-6 lg:px-8`, mobile-first stepping grids (`grid-cols-1 sm:grid-cols-2 lg:grid-cols-3/4`), fluid typography, zero horizontal overflow (`overflow-x-clip`), and minimum 44px touch targets.
+- **Iconography & Polish:** Lucide SVG icons only (never emoji as icons). Ban nested card borders. Uniform border radii.
+
+

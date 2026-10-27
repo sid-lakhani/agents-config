@@ -170,6 +170,24 @@
       "skillPath": "skills/02-animation-motion/css-scroll-driven/SKILL.md",
       "installedAt": "2026-10-06T10:40:00.000Z",
       "updatedAt": "2026-10-06T10:40:00.000Z"
+    },
+    "sanity-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sanity-io/agent-toolkit.git",
+      "skillPath": "skills/sanity-best-practices/SKILL.md",
+      "skillFolderHash": "cb6f8439c3ac666b7a20d097e73219a2ee7ede0a",
+      "installedAt": "2026-10-22T07:48:57.461Z",
+      "updatedAt": "2026-10-22T07:48:57.461Z"
+    },
+    "sanity-migration": {
+      "source": "sanity-io/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sanity-io/agent-toolkit.git",
+      "skillPath": "skills/sanity-migration/SKILL.md",
+      "skillFolderHash": "89491b0d00b52d185ad87a337641e467b7bfef6c",
+      "installedAt": "2026-10-22T07:48:57.462Z",
+      "updatedAt": "2026-10-22T07:48:57.462Z"
     }
   },
   "dismissed": {
