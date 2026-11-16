@@ -28,5 +28,5 @@ That means updates made to a canonical skill are shared by both agents without m
 3. Design & Animate with `frontend-design`, `ui-ux-pro-max`, `shadcn`, `threejs-r3f`, `lenis-smooth-scroll`, and `gsap-scrolltrigger`.
 4. Implement with `nextjs-react-expert`, `vercel-composition-patterns`, `motion-scroll-interactions`, `css-scroll-driven`, and `tailwind-patterns`.
 5. Build the backend with `api-patterns`, `nodejs-best-practices`, and the Prisma skills.
-6. Validate with `lint-and-validate`, `testing-patterns`, and `agent-browser`.
+6. Validate with `lint-and-validate`, `testing-patterns`, `gravitas`, and `agent-browser`.
 7. Review and ship with `vulnerability-scanner`, `performance-profiling`, and `deployment-procedures`.

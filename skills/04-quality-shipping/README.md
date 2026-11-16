@@ -14,3 +14,7 @@
 - [documentation-templates](./documentation-templates/SKILL.md)
 - [accidental-data-loss-prevention](./accidental-data-loss-prevention/SKILL.md)
 - [skill-repair](./skill-repair/SKILL.md)
+- [gravitas](./gravitas/SKILL.md)
+- [gravitas-python](./gravitas-python/SKILL.md)
+- [gravitas-typescript](./gravitas-typescript/SKILL.md)
+- [gravitas-highstakes](./gravitas-highstakes/SKILL.md)
