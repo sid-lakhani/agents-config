@@ -8,4 +8,5 @@
 - [parallel-agents](./parallel-agents/SKILL.md)
 - [intelligent-routing](./intelligent-routing/SKILL.md)
 - [find-skills](./find-skills/SKILL.md)
+- [rederive](./rederive/SKILL.md)
 - [templates](./app-builder/templates/SKILL.md)
